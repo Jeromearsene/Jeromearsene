@@ -7,7 +7,7 @@
 I am a freelance full stack web developer.
 I specialize in **web automation** and **browser extension**.
 
-### Web automation
+### 🤖 Web automation
 
 Scraping, E2E tests, bots, etc...
 
@@ -17,7 +17,7 @@ Scraping, E2E tests, bots, etc...
 ![](https://img.shields.io/badge/Cheerio-E88C1F.svg?style=for-the-badge&logo=Cheerio&logoColor=white)
 ![](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
 
-### Browser extension
+### 🧩 Browser extension
 
 MV3 manifest, Chrome & others, popup, side panel, website interactions, etc...
 
